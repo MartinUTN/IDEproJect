@@ -1,2 +1,2 @@
-# IDEproyect
+# IDEproJect
 TPDesarrolloDeSoftwareIDE

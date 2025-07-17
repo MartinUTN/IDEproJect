@@ -1,5 +1,4 @@
 # IDE-Project
-TPDesarrolloDeSoftwareIDE
 Este trabajo práctico tratara sobre compra de productos relacionados a componentes electronicos.
 
 *Modelo de Dominio:*
